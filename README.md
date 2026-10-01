@@ -17,7 +17,7 @@ Aplicação em Python para monitorar conexões de rede de um processo em tempo r
 ## Estrutura do projeto
 
 ```text
-Monitor\_Ping\_2/
+Monitor\\\_Ping\\\_2/
 ├── main.py
 ├── gui.py
 ├── monitor.py
@@ -36,21 +36,6 @@ Monitor\_Ping\_2/
 
 O Tkinter normalmente já acompanha a instalação padrão do Python no Windows.
 
-## Instalação
-
-Clone o repositório:
-
-```powershell
-git clone URL\_DO\_SEU\_REPOSITORIO
-cd Monitor\_Ping\_2
-```
-
-Instale as dependências:
-
-```powershell
-python -m pip install -r requirements.txt
-```
-
 ## Como executar
 
 ```powershell
@@ -60,7 +45,7 @@ python main.py
 Na interface, informe o nome do processo que deseja monitorar, por exemplo:
 
 ```text
-Aniimo.exe
+firefox.exe
 ```
 
 Depois clique em **Iniciar**.
