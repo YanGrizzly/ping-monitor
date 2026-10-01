@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDEs/editors
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build / packaging
+build/
+dist/
+*.spec
+
+# Local config / secrets
+.env
